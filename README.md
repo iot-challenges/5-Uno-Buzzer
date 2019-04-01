@@ -6,7 +6,8 @@ Platform: Arduino UNO
 
 [Use VSCODE with Platform.io to compile the code](https://platformio.org/?ref=iotchallenges)
 
-* Instagram text
+### Instagram text
+
 [5 Uno Buzzer] [StarWars]
 The challenge is make the buzzer works playing the StarWars - The Imperial March
 
